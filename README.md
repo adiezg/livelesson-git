@@ -2,4 +2,4 @@
 - git clone url: brings the git repo from url to current folder
 - git status: tell us what we need to know about our repository
 - git add file: adds file to the staging area
-- gt commit: opens a text editoe to write commit message
+- git commit: opens a text editor to write commit message
